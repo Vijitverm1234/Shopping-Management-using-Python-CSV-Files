@@ -1,0 +1,31 @@
+import mysql.connector
+def browse_items():
+    global cart
+    db=mysql.connector.connect(host='localhost',user='root',psword='1234',database='Categories')
+    cursor=db.cursor()
+    print('Select your desired category:\n\n')
+    print('(1)Furniture')
+    print('(2)Electronics')
+    print('(3)Kitchen')
+    print('(4)Fitness')
+    print('(5)Toys')
+    print('(6)Clothing')
+    print('(7)Hygiene & Beauty')
+    print('(8)Pantry')
+    print('(9)School Supplies')
+    print('(10)Fashion Accessories')
+    choice=input('Enter your choice:')
+    if choice=='1':
+        itemlist=cursor('SELECT * from Furniture;')
+        print('S.No.\tItem\tPrice')
+        for x in itemlist:
+            print(x[1],'\t',x[2],'\t',x[3])
+        itemchoice=int(input('Enter your preferred item:'))
+        if itemchoice<=range(itemlist):
+            quantity=int(input('Enter quantity:'))
+            l=list(x[2],x[3],quantity)
+            cart.append(l)
+            browse_items()
+        else:
+            print('Enter a valid choice number')
+            browse_items()

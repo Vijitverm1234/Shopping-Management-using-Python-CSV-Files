@@ -1,0 +1,9 @@
+CREATE TABLE Furniture(ItemCode varchar(5),SNo int(2), ItemName varchar(15),Price int(5));
+INSERT INTO Furniture values(101,1,'Sofa Set',10000);
+
+
+db=mysql.connector.connect(host='localhost',user='root',password='1234',database='Categories')
+cursor=db.cursor()
+itemlist=cursor.execute('SELECT * from Furniture;')
+for x in itemlist:
+    print(x)

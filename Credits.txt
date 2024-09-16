@@ -1,0 +1,14 @@
+This is to certify that the project titled "Online Shopping Software" and all related files are submitted to the Central Board of Secondary Education as the Annual Computer Science project for the
+session 2021-2022 .
+	-Vijit verma 12 A+  (Creation, debugging and management of final version of code and database files)
+	
+	
+	
+Under the guidance of:
+	-Mr. Sapan Jain (Computer Science teacher and project mentor)
+
+The students pledge that the project in its entirety is the result of their creative endeavours and hard work along with the constant encouragement and guidance of their project mentor. The group
+of students also pledge that the project is in no way, shape or form, plagiarised. The credit has been given to those it is due in the bibliography and acknowledgement section of the project file.
+The students do hereby submit their project with the expectation of free and fair evaluation by all the parties involved.
+
+ 

@@ -1,0 +1,7 @@
+1,Gooday Biscuits,20
+2,Pulses Combo ,300
+3,Wheat Flour 5kg,250
+4,Rice Bag 5kg ,250
+5,MDH Masala Set,200
+6,Dairy Milk Set,250
+7,Bread Packet ,30

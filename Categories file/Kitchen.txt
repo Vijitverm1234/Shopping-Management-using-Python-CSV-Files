@@ -1,0 +1,5 @@
+1,Dining Set   ,4000
+2,Glen LPG Stove,8000
+3,Induction Stove,2500
+4,Chopping Board,500
+5,Godrej Knife Set,1500

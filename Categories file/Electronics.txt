@@ -1,0 +1,8 @@
+1,Dell Laptop  ,50000
+2,Lenovo Desktop,50000
+3,Samsung Phone,21000
+4,Sony LED TV Set,28000
+5,LG Microwave ,12000
+6,Samsung Fridge,18000
+7,JBL Speakers ,5000
+8,Boss Earphones,3000

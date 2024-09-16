@@ -1,0 +1,6 @@
+1,Sofa & Cushions,15000
+2,Coffee Table ,4500
+3,Office Chair ,5000
+4,Wooden Box Bed,15000
+5,Wooden Almirah,8000
+6,Dining Table ,20000

@@ -1,0 +1,5 @@
+1,Mens' T-Shirt,1500
+2,Mens' Jacket ,3500
+3,Women's Jacket,3500
+4,Woollen Muffler,350
+5,Sports Shoes   ,1500

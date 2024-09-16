@@ -1,0 +1,5 @@
+1,Shampoo 250mL,300
+2,Conditioner 250 mL,250
+3,Mouisturizer ,400
+4,Bathing Soap ,50
+5,Detergent    ,150
